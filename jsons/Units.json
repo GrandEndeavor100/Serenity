@@ -33,7 +33,7 @@
 		"movement": 3,
 		"strength": 10,
 		"cost": 10,
-		"obsoleteTech": "Metal Casting",
+		"obsoleteTech": "Pottery",
 		"upgradesTo": "Swordsman",
 		"uniques": ["May upgrade to [Spearman] through ruins-like effects"],
 		"attackSound": "nonmetalhit",
