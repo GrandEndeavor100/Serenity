@@ -33,9 +33,7 @@
 		"movement": 3,
 		"strength": 10,
 		"cost": 10,
-		"obsoleteTech": "Pottery",
-		"upgradesTo": "Swordsman",
-		"uniques": ["May upgrade to [Spearman] through ruins-like effects"],
+		"requiredTech": "Pottery",
 		"attackSound": "nonmetalhit",
         "civilopediaText": [
 			{"text": "This unit is the base mage. Can manipulate natural elements for attacks."}
