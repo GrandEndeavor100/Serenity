@@ -46,10 +46,10 @@
 		"strength": 1000,
 		"rangedStrength": 1000,
 		"range": 20,
-		"cost": 10,
+		"cost": 1,
 		"requiredTech": "Advanced Ballistics",
-		"uniques": ["Nuclear weapon of Strength [2]", "Only available <if [Manhattan Project] is constructed>",
-			"Blast radius [2]", "Consumes [4] [Uranium]"],
+		"uniques": ["Nuclear weapon of Strength [2]",
+			"Blast radius [10]",],
 		"attackSound": "nuke"
 	},
 	{
@@ -59,10 +59,10 @@
 		"strength": 1200,
 		"rangedStrength": 1200,
 		"range": 4,
-		"cost": 10,
+		"cost": 1,
 		"requiredTech": "Advanced Ballistics",
 		"uniques": ["Nuclear weapon of Strength [2]",
-			"Blast radius [2]", "Consumes [1] [Uranium]"],
+			"Blast radius [2]",],
 		"attackSound": "nuke"
 	}
 	
