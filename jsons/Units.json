@@ -39,4 +39,31 @@
 			{"text": "This unit is the base mage. Can manipulate natural elements for attacks."}
 		]
 	},
+	{
+		"name": "AntiMatter Core",
+		"unitType": "Missile",
+		"movement": 1,
+		"strength": 1000,
+		"rangedStrength": 1000,
+		"range": 20,
+		"cost": 10,
+		"requiredTech": "Advanced Ballistics",
+		"uniques": ["Nuclear weapon of Strength [2]", "Only available <if [Manhattan Project] is constructed>",
+			"Blast radius [2]", "Consumes [4] [Uranium]"],
+		"attackSound": "nuke"
+	},
+	{
+		"name": "Quantum Core",
+		"unitType": "Missile",
+		"movement": 1,
+		"strength": 1200,
+		"rangedStrength": 1200,
+		"range": 4,
+		"cost": 10,
+		"requiredTech": "Advanced Ballistics",
+		"uniques": ["Nuclear weapon of Strength [2]",
+			"Blast radius [2]", "Consumes [1] [Uranium]"],
+		"attackSound": "nuke"
+	}
+	
 ]
