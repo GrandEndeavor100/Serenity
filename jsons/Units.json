@@ -64,6 +64,19 @@
 		"uniques": ["Nuclear weapon of Strength [2]",
 			"Blast radius [6]"],
 		"attackSound": "nuke"
-	}
+	},
+        {
+
+                "name": "Dualions",
+                "unitType": "Sword",
+                "movement": 100,
+                "strength": 100,
+                "cost": 10,
+                "requiredTech": "Pottery",
+                "attackSound": "nonmetalhit",
+        "civilopediaText": [
+                        {"text": "This unit has double existence allowing to cross cast distances in a single turn."}
+                ]
+        },
 	
 ]
