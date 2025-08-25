@@ -48,7 +48,7 @@
 		"range": 50,
 		"cost": 1,
 		"requiredTech": "Advanced Ballistics",
-		"uniques": ["Nuclear weapon of Strength [2]",
+		"uniques": ["Nuclear weapon of Strength [10]",
 			"Blast radius [20]"],
 		"attackSound": "nuke"
 	},
