@@ -45,11 +45,11 @@
 		"movement": 1,
 		"strength": 4000,
 		"rangedStrength": 4000,
-		"range": 20,
+		"range": 100,
 		"cost": 1,
 		"requiredTech": "Advanced Ballistics",
 		"uniques": ["Nuclear weapon of Strength [2]",
-			"Blast radius [8]"],
+			"Blast radius [20]"],
 		"attackSound": "nuke"
 	},
 	{
@@ -58,11 +58,11 @@
 		"movement": 1,
 		"strength": 5000,
 		"rangedStrength": 5000,
-		"range": 4,
+		"range": 2,
 		"cost": 1,
 		"requiredTech": "Advanced Ballistics",
 		"uniques": ["Nuclear weapon of Strength [2]",
-			"Blast radius [2]"],
+			"Blast radius [6]"],
 		"attackSound": "nuke"
 	}
 	
