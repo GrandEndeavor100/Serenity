@@ -86,7 +86,7 @@
                 "cost": 1,
                 "requiredTech": "Pottery",
 "uniqueName":"MakeChange", 
-"uniques": ["Turn this tile into a [Forest] tile"],
+"uniques": ["Turn this tile into a [Forest] tile <by consuming this unit>"],
         "civilopediaText": [
                         {"text": " Perform terraformation. This unit has double existence allowing to cross vast distances in a single turn."}
                 ]
