@@ -118,7 +118,7 @@
 "uniques": ["Turn this tile into a [Ice] tile <by consuming this unit>","[This Unit] heals [6] HP <upon ending a turn in a [Ice] tile>","[This Unit] heals [3] HP <upon ending a turn in a [Snow] tile>","[This Unit] is destroyed <upon ending a turn in a [Desert] tile>"],
 "attackSound": "nonmetalhit",
         "civilopediaText": [
-                        {"text": " Perform terraformation. This unit can freeze a lake or ocean tile to Ice tile."}
+                        {"text": " Perform terraformation. This unit can freeze a lake or ocean tile to Ice tile. This unit dies if it stays on a desert tile."}
                 ]
 }
         
