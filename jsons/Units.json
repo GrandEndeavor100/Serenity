@@ -105,6 +105,21 @@
         "civilopediaText": [
                         {"text": " Perform terraformation. This unit can shift the ground to rise a hill in a  tile that can have hills."}
                 ]
+},
+{
+
+                "name": "Ice Golem",
+                "unitType": "Sword",
+                "movement": 1,
+"strength":70,
+                "cost": 1,
+                "requiredTech": "Pottery",
+"uniqueName":"FreezeLand", 
+"uniques": ["Turn this tile into a [Ice] tile <by consuming this unit>"],
+"attackSound": "nonmetalhit",
+        "civilopediaText": [
+                        {"text": " Perform terraformation. This unit can freeze a lake or ocean tile to Ice tile."}
+                ]
 }
         
 	
