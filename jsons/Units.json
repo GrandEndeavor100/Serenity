@@ -78,5 +78,17 @@
                         {"text": "This unit has double existence allowing to cross cast distances in a single turn."}
                 ]
         },
+{
+
+                "name": "Terraformer",
+                "unitType": "Civilian",
+                "movement": 100,
+                "cost": 1,
+                "requiredTech": "Pottery",
+"uniques": ["Turn this tile into a [Forest] tile",
+        "civilopediaText": [
+                        {"text": " Perform terraformation. This unit has double existence allowing to cross vast distances in a single turn."}
+                ]
+        }
 	
 ]
