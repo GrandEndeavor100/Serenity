@@ -88,7 +88,22 @@
 "uniqueName":"MakeChange", 
 "uniques": ["Turn this tile into a [Forest] tile <by consuming this unit>"],
         "civilopediaText": [
-                        {"text": " Perform terraformation. This unit has double existence allowing to cross vast distances in a single turn."}
+                        {"text": " Perform terraformation. This unit can grow forest in a  tile that can have forests."}
+                ]
+},
+{
+
+                "name": "Rock Golem",
+                "unitType": "Sword",
+                "movement": 1,
+"strength":100,
+                "cost": 1,
+                "requiredTech": "Pottery",
+"uniqueName":"TectonicShift", 
+"uniques": ["Turn this tile into a [Hill] tile <by consuming this unit>"],
+"attackSound": "nonmetalhit",
+        "civilopediaText": [
+                        {"text": " Perform terraformation. This unit can shift the ground to rise a hill in a  tile that can have hills."}
                 ]
 }
         
