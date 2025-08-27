@@ -125,7 +125,7 @@
 
                 "name": "Foliage",
                 "unitType": "Sword",
-                "movement": 1,
+                "movement": 100,
 "strength":10,
                 "cost": 1,
                 "requiredTech": "Pottery",
@@ -140,7 +140,7 @@
 
                 "name": "Illusionist",
                 "unitType": "Sword",
-                "movement": 1,
+                "movement": 100,
 "strength":10,
                 "cost": 1,
                 "requiredTech": "Pottery",
