@@ -130,12 +130,27 @@
                 "cost": 1,
                 "requiredTech": "Pottery",
 "uniqueName":"Verdure", 
-"uniques": [" [This Unit] heals [10] HP"],
+"uniques": [" [This Unit] heals [10] HP <upon turn end>","[Target Unit] takes [2] damage <upon turn end>"],
 "attackSound": "nonmetalhit",
         "civilopediaText": [
-                        {"text": " A constant growing plant creature. Can heal it's full health in one turn. To destroy one must kill it with a single strike."}
+                        {"text": " A constant growing plant creature. Can heal it's full health in one turn. To destroy one must kill it with a single strike. Can poison it's target by 2 damage every turn."}
                 ]
 },
-        
+ {
+
+                "name": "Illusionist",
+                "unitType": "Sword",
+                "movement": 1,
+"strength":10,
+                "cost": 1,
+                "requiredTech": "Pottery",
+"uniqueName":"MoveHunter", 
+"uniques": ["[Target Unit] loses [2] movement <upon damaging a [Target Unit] unit>"],
+"attackSound": "nonmetalhit",
+        "civilopediaText": [
+                        {"text": "Can disable moves of target unit by two turns using illusion spells."}
+                ]
+}
+       
 	
 ]
