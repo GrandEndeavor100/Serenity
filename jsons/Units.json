@@ -120,7 +120,22 @@
         "civilopediaText": [
                         {"text": " Perform terraformation. This unit can freeze a lake or ocean tile to Ice tile. This unit dies if it stays on a desert tile."}
                 ]
-}
+},
+{
+
+                "name": "Foliage",
+                "unitType": "Sword",
+                "movement": 1,
+"strength":10,
+                "cost": 1,
+                "requiredTech": "Pottery",
+"uniqueName":"Verdure", 
+"uniques": [" [This Unit] heals [10] HP"],
+"attackSound": "nonmetalhit",
+        "civilopediaText": [
+                        {"text": " A constant growing plant creature. Can heal it's full health in one turn. To destroy one must kill it with a single strike."}
+                ]
+},
         
 	
 ]
