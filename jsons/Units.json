@@ -110,7 +110,7 @@
 
                 "name": "Ice Golem",
                 "unitType": "Sword",
-                "movement": 1,
+                "movement": 100,
 "strength":70,
                 "cost": 1,
                 "requiredTech": "Pottery",
@@ -126,11 +126,11 @@
                 "name": "Foliage",
                 "unitType": "Sword",
                 "movement": 100,
-"strength":10,
+"strength":70,
                 "cost": 1,
                 "requiredTech": "Pottery",
 "uniqueName":"Verdure", 
-"uniques": ["[This Unit] heals [10] HP <upon turn end>","[Target Unit] takes [2] damage <upon turn end>"],
+"uniques": ["[This Unit] heals [70] HP <upon turn end>","[Target Unit] takes [20] damage <upon turn end>"],
 "attackSound": "nonmetalhit",
         "civilopediaText": [
                         {"text": " A constant growing plant creature. Can heal it's full health in one turn. To destroy one must kill it with a single strike. Can poison it's target by 2 damage every turn."}
@@ -141,30 +141,27 @@
                 "name": "Illusionist",
                 "unitType": "Sword",
                 "movement": 100,
-"strength":10,
+"strength":100,
                 "cost": 1,
                 "requiredTech": "Pottery",
 "uniqueName":"MoveHunter", 
 "uniques": ["[Target Unit] loses [2] movement <upon damaging a [Target Unit] unit>"],
 "attackSound": "nonmetalhit",
         "civilopediaText": [
-                        {"text": "Can disable moves of target unit by two turns using illusion spells."}
+                        {"text": "Can disable moves of target unit by two turns using illusionary spells."}
                 ]
 },
 {
     "name": "Pomologist",
     "unitType": "Civilian",
-    "movement": 2,
+    "movement": 100,
     "cost": 1,
     "requiredTech": "Agriculture",
-    "uniques": [
-        "Can build [Banana] improvements on tiles",
-        "Consumes [1] population from closest city when built",
-        "Great Person - [Merchant]"
+    "uniques": [" Turn this tile into a [Banana] tile <by consuming this unit>"]
     ],
     "civilopediaText": [
         {
-            "text": "A specialized civilian unit that can establish banana plantations. When used, the Fruit Farmer will sacrifice themselves to transform the current tile into a productive banana resource tile."
+            "text": "A specialized civilian unit that can establish banana plantations. When used, the Fruit Farmer will plant a banana seed and is consumed in the process."
         }
     ]
 }
