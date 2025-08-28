@@ -157,7 +157,7 @@
     "movement": 100,
     "cost": 1,
     "requiredTech": "Agriculture",
-    "uniques": [" Turn this tile into a [Banana] tile <by consuming this unit>"],
+    "uniques": ["Turn this tile into a [Banana] tile <by consuming this unit>"],
     "civilopediaText": [
         {
             "text": "A specialized civilian unit that can establish banana plantations. When used, the Fruit Farmer will plant a banana seed and is consumed in the process."
