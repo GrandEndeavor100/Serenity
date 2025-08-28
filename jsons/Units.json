@@ -163,7 +163,22 @@
             "text": "A specialized civilian unit that can establish banana plantations. When used, the Fruit Farmer will plant a banana seed and is consumed in the process."
         }
     ]
-}
+},
+ {
+
+                "name": "End Orb",
+                "unitType": "Sword",
+                "movement": 60,
+"strength":6,
+                "cost": 1,
+                "requiredTech": "Agriculture",
+"uniqueName":"TotalDestroyer", 
+"uniques": ["[Target Unit] is destroyed <upon damaging a [Target] unit> <after which this unit is consumed>"],
+"attackSound": "nonmetalhit",
+        "civilopediaText": [
+                        {"text": "Can destroy totally units."}
+                ]
+},
        
 	
 ]
