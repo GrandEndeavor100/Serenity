@@ -155,7 +155,7 @@
     "name": "Pomologist",
     "unitType": "Civilian",
     "movement": 2,
-    "cost": 50,
+    "cost": 1,
     "requiredTech": "Agriculture",
     "uniques": [
         "Can build [Banana] improvements on tiles",
