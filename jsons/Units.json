@@ -157,7 +157,6 @@
     "movement": 100,
     "cost": 1,
     "requiredTech": "Agriculture",
-    "uniques": ["Provides [2] [Bananas] <by consuming this unit>"],
     "civilopediaText": [
         {
             "text": "A specialized civilian unit that can establish bananas plantations. When used, the Fruit Farmer will plant a banana seed and is consumed in the process."
