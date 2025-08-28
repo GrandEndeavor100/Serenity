@@ -141,11 +141,11 @@
                 "name": "Illusionist",
                 "unitType": "Sword",
                 "movement": 100,
-"strength":100,
+"strength":6,
                 "cost": 1,
                 "requiredTech": "Pottery",
 "uniqueName":"MoveHunter", 
-"uniques": ["[Target Unit] loses [2] movement <upon damaging a [Target Unit] unit>"],
+"uniques": ["[This Unit] gains [2] movement <upon damaging a [Target Unit] unit> <[3] times>"],
 "attackSound": "nonmetalhit",
         "civilopediaText": [
                         {"text": "Can disable moves of target unit by two turns using illusionary spells."}
