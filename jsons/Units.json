@@ -86,7 +86,7 @@
                 "cost": 1,
                 "requiredTech": "Pottery",
 "uniqueName":"MakeChange", 
-"uniques": ["Turn this tile into a [Forest] tile <by consuming this unit>"],
+"uniques": ["Turn this tile into a [Forest] tile <by consuming this unit>","Turn this tile into a [Jungle] tile <by consuming this unit>","Turn this tile into a [Oasis] tile <by consuming this unit>"],
         "civilopediaText": [
                         {"text": " Perform terraformation. This unit can grow forest in a  tile that can have forests."}
                 ]
@@ -115,7 +115,7 @@
                 "cost": 1,
                 "requiredTech": "Pottery",
 "uniqueName":"FreezeLand", 
-"uniques": ["Turn this tile into a [Ice] tile <by consuming this unit>","[This Unit] heals [6] HP <upon ending a turn in a [Ice] tile>","[This Unit] heals [3] HP <upon ending a turn in a [Snow] tile>","[This Unit] is destroyed <upon ending a turn in a [Desert] tile>"],
+"uniques": ["Turn this tile into a [Ice] tile <by consuming this unit>","[This Unit] heals [6] HP <upon ending a turn in a [Ice] tile>","[This Unit] heals [3] HP <upon ending a turn in a [Snow] tile>","[This Unit] is destroyed <upon ending a turn in a [Desert] tile>","Turn this tile into a [Snow] tile <by consuming this unit>"],
 "attackSound": "nonmetalhit",
         "civilopediaText": [
                         {"text": " Perform terraformation. This unit can freeze a lake or ocean tile to Ice tile. This unit dies if it stays on a desert tile."}
