@@ -45,7 +45,7 @@
 		"movement": 1,
 		"strength": 4000,
 		"rangedStrength": 4000,
-		"range": 20,
+		"range": 2,
 		"cost": 1,
 		"requiredTech": "Advanced Ballistics",
 		"uniques": ["Nuclear weapon of Strength [10]",
