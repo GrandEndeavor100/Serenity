@@ -100,7 +100,7 @@
                 "cost": 1,
                 "requiredTech": "Pottery",
 "uniqueName":"TectonicShift", 
-"uniques": ["Turn this tile into a [Hill] tile <by consuming this unit>"],
+"uniques": ["Turn this tile into a [Hill] tile <by consuming this unit>","Turn this tile into a [Mountain] tile <by consuming this unit>"],
 "attackSound": "nonmetalhit",
         "civilopediaText": [
                         {"text": " Perform terraformation. This unit can shift the ground to rise a hill in a  tile that can have hills."}
@@ -190,6 +190,19 @@
 "attackSound": "nonmetalhit",
         "civilopediaText": [
                         {"text": "Can disable moves of target unit by two turns using illusionary spells.Test."}
+                ]
+},
+{
+
+                "name": "Acolyte",
+                "unitType": "Civilian",
+                "movement": 100,
+                "cost": 1,
+                "requiredTech": "Archery",
+"uniqueName":"MakeChange", 
+"uniques": ["Turn this tile into a [Coast] tile <by consuming this unit>","Turn this tile into a [Ocean] tile <by consuming this unit>","Turn this tile into a [Atoll] tile <by consuming this unit>"],
+        "civilopediaText": [
+                        {"text": " Perform terraformation. This unit can grow forest in a  tile that can have forests."}
                 ]
 },
        
