@@ -186,6 +186,7 @@
 "strength":100,
                 "cost": 1,
                 "requiredTech": "Pottery",
+"uniques": ["May capture killed [Wounded] units"],
 "attackSound": "nonmetalhit",
         "civilopediaText": [
                         {"text": "Can disable moves of target unit by two turns using illusionary spells.Test."}
