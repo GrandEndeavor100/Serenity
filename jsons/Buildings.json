@@ -27,7 +27,7 @@
 		"cost": 2,
 		"hurryCostModifier": 160,
 		"happiness": 2,
-		"uniques": ["When defeating a [Wounded] unit, earn [10] Gold and recruit it"],
-		"requiredTech": "Agriculture"
+  "requiredTech": "Acoustics",
+		"uniques": ["When defeating a [Wounded] unit, earn [10] Gold and recruit it"]
 	}
 ]
